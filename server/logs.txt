@@ -74,3 +74,5 @@
 [12/13/2019, 5:30:09 PM]	 Added new image to test. 
 [12/14/2019, 1:15:10 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
 [8/7/2020, 12:27:20 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[8/7/2020, 3:02:31 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[8/7/2020, 3:04:08 PM]	 Someone tried to login as admin. WRONG USERNAME!. 

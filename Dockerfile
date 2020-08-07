@@ -7,4 +7,4 @@ RUN npm install
 
 COPY . .
 # ENTRYPOINT [ "/app/server.sh" ]
-CMD ["npm", "run", "start"]
+# CMD ["npm", "run", "start"]
