@@ -1,0 +1,76 @@
+[11/17/2019, 8:49:42 PM]	 Creating new organism: Ralstonia solanacearum copy.
+[11/17/2019, 8:49:43 PM]	 Uploading new file 'node.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:49:43 PM]	 Uploading new file 'chromo.png' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:50:26 PM]	 Uploading new file 'F1C1(Prokka).txt' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:50:26 PM]	 Uploading new file 'F1C1.fasta' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:50:26 PM]	 Ralstonia solanacearum copy's F1C1(Prokka).txt has been parsed successfully.
+[11/17/2019, 8:50:26 PM]	 Rep 1:F1C1.fasta's data has been updated.
+[11/17/2019, 8:50:26 PM]	 Uploading new file 'F1C1p.txt' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:50:27 PM]	 Uploading new file 'F1C1p.fasta' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:50:27 PM]	 Ralstonia solanacearum copy's F1C1p.txt has been parsed successfully.
+[11/17/2019, 8:50:27 PM]	 Rep 2:F1C1p.fasta's data has been updated.
+[11/17/2019, 8:50:26 PM]	 Rep 1:F1C1(Prokka).txt has been inserted into Ralstonia solanacearum copy.
+[11/17/2019, 8:50:27 PM]	 Rep 2:F1C1p.txt has been inserted into Ralstonia solanacearum copy.
+[11/17/2019, 8:51:27 PM]	 Uploading new file 'Picture1.png' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/17/2019, 8:51:27 PM]	 Added new image to Ralstonia solanacearum copy. 
+[11/17/2019, 8:51:46 PM]	 Deleting replicons from Ralstonia solanacearum copy.
+[11/17/2019, 8:51:46 PM]	 Updated replicon list in Ralstonia solanacearum copy.
+[11/18/2019, 12:09:23 AM]	 Updated data of Ralstonia solanacearum copy.
+[11/18/2019, 12:09:52 AM]	 Updated data of Ralstonia solanacearum copy.
+[11/18/2019, 12:10:13 AM]	 Updated data of Ralstonia solanacearum copy.
+[11/18/2019, 12:12:42 AM]	 Updated data of Ralstonia solanacearum copy.
+[11/18/2019, 11:53:36 AM]	 Deleting it's replicons: 
+[11/18/2019, 11:53:54 AM]	 Deleting it's replicons: 
+[11/18/2019, 11:54:05 AM]	 Deleting it's replicons: 
+[11/18/2019, 3:53:28 PM]	 Added new image to Ralstonia solanacearum copy. 
+[11/18/2019, 3:53:40 PM]	 Added new image to Ralstonia solanacearum copy. 
+[11/18/2019, 3:53:40 PM]	 Uploading new file '1757.7-js-icon-iconbunny.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum copy/.
+[11/18/2019, 3:54:37 PM]	 Creating new organism: Ralstonia solanacearum.
+[11/18/2019, 3:55:50 PM]	 Uploading new file 'ErrorFile.txt' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/.
+[11/18/2019, 3:55:50 PM]	 Uploading new file 'ErrorFile.fasta' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/.
+[11/18/2019, 3:55:50 PM]	 Uploading new file 'F1C1(Prokka).txt' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/.
+[11/18/2019, 3:55:52 PM]	 Uploading new file 'F1C1.fasta' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/.
+[11/18/2019, 3:55:53 PM]	 Ralstonia solanacearum's F1C1(Prokka).txt has been parsed successfully.
+[11/18/2019, 3:55:53 PM]	 Chromosome:F1C1.fasta's data has been updated.
+[11/18/2019, 3:55:53 PM]	 Chromosome:F1C1(Prokka).txt has been inserted into Ralstonia solanacearum.
+[11/20/2019, 1:25:30 PM]	 Creating new organism: Ralstonia solanacearum GMI1000, MOLK2 and IPO1609.
+[11/20/2019, 1:26:56 PM]	 Uploading new file 'F1C1(Prokka).txt' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000, MOLK2 and IPO1609/.
+[11/20/2019, 1:26:56 PM]	 Uploading new file 'F1C1.fasta' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000, MOLK2 and IPO1609/.
+[11/20/2019, 1:26:56 PM]	 Ralstonia solanacearum GMI1000, MOLK2 and IPO1609's F1C1(Prokka).txt has been parsed successfully.
+[11/20/2019, 1:26:57 PM]	 aa:F1C1.fasta's data has been updated.
+[11/20/2019, 1:26:56 PM]	 aa:F1C1(Prokka).txt has been inserted into Ralstonia solanacearum GMI1000, MOLK2 and IPO1609.
+[11/20/2019, 1:33:11 PM]	 Someone tried to login as admin. WRONG USERNAME!.
+[11/20/2019, 1:33:12 PM]	 Someone tried to login as admin. WRONG USERNAME!.
+[11/21/2019, 8:43:00 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[11/21/2019, 8:43:01 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[11/21/2019, 8:43:16 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[11/21/2019, 8:44:23 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[11/21/2019, 8:44:24 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+
+[12/13/2019, 12:54:44 PM]	 Deleted organism: Ralstonia solanacearum copy. Deleting it's replicons: 
+[12/13/2019, 12:54:56 PM]	 Deleted organism: Ralstonia solanacearum GMI1000, MOLK2 and IPO1609. Deleting it's replicons: 
+[12/13/2019, 12:55:30 PM]	 Updated data of Ralstonia solanacearum. 
+[12/13/2019, 12:57:18 PM]	 Added new image to Ralstonia solanacearum. 
+[12/13/2019, 12:57:18 PM]	 Uploading new file 'pic1.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/. 
+[12/13/2019, 12:57:30 PM]	 Added new image to Ralstonia solanacearum. 
+[12/13/2019, 12:57:30 PM]	 Uploading new file 'pic2.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/. 
+[12/13/2019, 12:57:41 PM]	 Added new image to Ralstonia solanacearum. 
+[12/13/2019, 12:57:41 PM]	 Uploading new file 'pic3.png' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/. 
+[12/13/2019, 12:57:52 PM]	 Added new image to Ralstonia solanacearum. 
+[12/13/2019, 12:57:52 PM]	 Uploading new file 'pic4.png' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum/. 
+[12/13/2019, 1:01:15 PM]	 Creating new organism: Ralstonia solanacearum GMI1000. 
+[12/13/2019, 1:01:15 PM]	 Uploading new file 'pic1.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000/. 
+[12/13/2019, 1:01:15 PM]	 Uploading new file 'pic2.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000/. 
+[12/13/2019, 1:01:15 PM]	 Uploading new file 'pic3.png' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000/. 
+[12/13/2019, 1:02:45 PM]	 Uploading new file 'F1C1(Prokka).txt' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000/. 
+[12/13/2019, 1:02:46 PM]	 Uploading new file 'F1C1.fasta' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/Ralstonia solanacearum GMI1000/. 
+[12/13/2019, 1:02:46 PM]	 Ralstonia solanacearum GMI1000's F1C1(Prokka).txt has been parsed successfully. 
+[12/13/2019, 1:02:46 PM]	 Chromosome:F1C1.fasta's data has been updated. 
+[12/13/2019, 1:02:46 PM]	 Chromosome:F1C1(Prokka).txt has been inserted into Ralstonia solanacearum GMI1000. 
+[12/13/2019, 1:04:59 PM]	 Updated data of Ralstonia solanacearum GMI1000. 
+[12/13/2019, 1:08:32 PM]	 Deleted organism: Ralstonia solanacearum GMI1000. Deleting it's replicons: 
+[12/13/2019, 5:24:23 PM]	 Creating new organism: test. 
+[12/13/2019, 5:24:24 PM]	 Uploading new file 'pic1.jpg' at location C:\Users\ASUS\Documents\GitHub\minorProject\server/uploads/test/. 
+[12/13/2019, 5:30:09 PM]	 Added new image to test. 
+[12/14/2019, 1:15:10 PM]	 Someone tried to login as admin. WRONG USERNAME!. 
+[8/7/2020, 12:27:20 PM]	 Someone tried to login as admin. WRONG USERNAME!. 

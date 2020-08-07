@@ -1,0 +1,10 @@
+version: '3'
+services:
+    node-app:
+        restart: always
+        build: .
+        image: amannv2/gene
+        ports:
+            - "3000:3000"
+            - "8000:8000"
+        command: ["npm", "run", "start"]

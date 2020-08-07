@@ -1,0 +1,70 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+#search_box {
+  border: 2px solid black;
+
+  width: 1018px;
+  height: 43px;
+  margin-top: 10px;
+  padding-top: 7px;
+}
+
+#main_body {
+  border: 2px solid black;
+  margin-top: 1px;
+  width: 1050px;
+}
+
+#graph {
+  overflow: auto;
+  height: 500px;
+  width: 1017px;
+  position: relative;
+  margin-left: 1px;
+}
+
+#graphContent {
+  background-color: cyan;
+  width: 1000px;
+}
+
+.cols {
+  height: 20px;
+  position: absolute;
+  z-index: 2;
+  outline-offset: -1px;
+}
+
+.hrL {
+  background-color: black;
+  height: 2px;
+  width: 1000px;
+}
+
+.scale {
+  background-color: #ffff;
+  height: 15px;
+  margin-top: 6px;
+
+  width: 1000px;
+  font-size: 12px;
+}
+
+.scaleDigit {
+  float: left;
+}
+
+abbr {
+  text-decoration: none;
+}
+
+.separator {
+  width: 1px;
+  z-index: 1;
+  border-left: 1px dotted black;
+  float: left;
+  opacity: 0.7;
+}
